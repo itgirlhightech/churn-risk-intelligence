@@ -38,7 +38,7 @@ The dashboard highlights key behavioral insights such as:
 - Relationship between engagement and churn
 - Consecutive activity patterns
 
-![dashboard](../img-dashboard/CRI-dashboard.jpg)
+![dashboard](img-dashboard/CRI-dashboard.jpg)
 
 ## Tools Used | Ferramentas Utilizadas
 - Python
